@@ -5,4 +5,4 @@ Quais são os principais campos e tipos?<br>
 id e nome
 
 Como essas entidades estão relacionadas?<br>
-1 : N
+1 : N (um-para-muitos)
